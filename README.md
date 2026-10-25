@@ -1,6 +1,6 @@
 ### Hi, I'm Merlin 👋
 
-Computer Science. Interested in **LLM inference acceleration** and **edge computing**.
+Computer Science @ Renmin University of China. Interested in **LLM inference acceleration** and **edge computing**.
 
 **Currently exploring**
 - CUDA / Triton kernels and attention optimization
